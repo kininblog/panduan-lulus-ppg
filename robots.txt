@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kininblog.github.io/panduan-lulus-ppg/sitemap.xml
